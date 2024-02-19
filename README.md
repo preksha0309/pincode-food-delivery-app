@@ -46,10 +46,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Live Website Preview : <a href="https://spicy-pricey-food-delivery.vercel.app/" target="_blank">https://spicy-pricey-food-delivery.vercel.app/</a>
+- Live Website Preview : <a href="https://pincode-delivery-app.netlify.app/" target="_blank">https://pincode-delivery-app.netlify.app/</a>
 
-## ⭐️ Show your support <a name="support"></a>
 
-> "If you enjoy this project, I'd greatly appreciate your support. Consider sharing it with others who might find it useful. Your contribution helps me grow and improve. 🚀, Don't Hesitate for starring this GitHub repository! "
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
