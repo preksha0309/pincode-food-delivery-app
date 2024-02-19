@@ -14,9 +14,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 🚀 [Spicey Pricey] <a name="about-project"></a>
+# 🚀 [Pincode] <a name="about-project"></a>
 
-> Spicey Pricey, a React.js-based food ordering app, seamlessly connects users with their favorite dishes through the live Swiggy API. With Redux for state management, React Router DOM for smooth navigation, and Tailwind CSS for a visually appealing interface, it offers a modern and efficient way to explore, order, and enjoy a diverse range of culinary delights.
+> Pincode, a React.js-based food ordering app, seamlessly connects users with their favorite dishes through the live Swiggy API. With Redux for state management, React Router DOM for smooth navigation, and Tailwind CSS for a visually appealing interface, it offers a modern and efficient way to explore, order, and enjoy a diverse range of culinary delights.
 
 ## 🛠 Built With <a name="built-with"></a>
 

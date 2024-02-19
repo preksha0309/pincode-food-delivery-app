@@ -68,7 +68,7 @@ const LandingPage = () => {
                     <div className="2xl:w-4/5 relative">
                         <div className="flex items-center gap-3 text-white lg:text-black text-shadow">
                             <img src={LOGO_URL} alt="img" className="h-[60px] rounded-full border border-black" />
-                            <span className="cursor-pointer text-xl sm:text-2xl font-ProximaNovaBold">Spicey Pricey</span>
+                            <span className="cursor-pointer text-xl sm:text-2xl font-ProximaNovaBold">Pincode</span>
                         </div>
                         <div className="mt-10 mb-4 text-shadow">
                             <h2 className="font-ProximaNovaSemiBold text-3xl text-white lg:text-[#282c3f]">{ChangingText}</h2>
